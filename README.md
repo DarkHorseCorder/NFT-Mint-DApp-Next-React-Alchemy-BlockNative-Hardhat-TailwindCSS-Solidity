@@ -1,9 +1,14 @@
-
+# NFT Mint DApp
 
 https://boredapemint.netlify.app
 
+![screencapture-localhost-3000-2023-03-02-07_00_10](https://user-images.githubusercontent.com/120799088/222276881-27febcf1-cd91-4d55-b95e-466c8199433a.png)
 
+![Screenshot_3](https://user-images.githubusercontent.com/120799088/222277599-2da3a055-d63f-4860-b319-bf6b032825a6.png)
 
+## Wallet connect provider with BlockNative API
+
+![Screenshot_1](https://user-images.githubusercontent.com/120799088/222277705-37772b0f-0a90-4acc-8721-366f166b8242.png)
 
 
 #To run the dapp Locally
