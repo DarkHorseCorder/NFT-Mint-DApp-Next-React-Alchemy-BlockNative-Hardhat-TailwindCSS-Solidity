@@ -2,9 +2,7 @@
 
 https://boredapemint.netlify.app
 
-![home](./react-10.jpg)
 
-![home](./cover.jpg)
 
 
 
